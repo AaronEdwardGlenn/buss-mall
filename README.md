@@ -62,6 +62,8 @@ Part of your assignment today is to write your own user stories. Be sure to cons
 
 As a reminder, user stories typically take the form of, "As X, I want Y, so that Z" but do not necessarily need that structure.
 
+2 for participant, one for the researcher. 
+
 ### Technical Plan
 
 Also draft a technical plan for the project (a detailed to-do list of things to make, step by step and tested at each stage) before getting into the code. That time spent in thought and planning will make the code flow a lot faster. Give yourself a series of little problems to solve (rather an a ginormous thing that you just wade through and poke at).
